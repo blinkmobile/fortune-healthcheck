@@ -1,0 +1,19 @@
+{
+  "name": "fortune-healthcheck",
+  "version": "0.0.1",
+  "description": "Healthcheck middleware for Fortune",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blinkmobile/fortune-healthcheck"
+  },
+  "keywords": [
+    "fortune",
+    "healthcheck"
+  ],
+  "author": "Ben Barclay",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/blinkmobile/fortune-healthcheck/issues"
+  }
+}
